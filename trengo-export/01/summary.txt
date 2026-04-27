@@ -1,0 +1,9 @@
+Trengo Export Summary
+=====================
+Export Date: 2026-04-27T18:03:10.075Z
+Total Tickets: 1
+Total Messages: 3
+
+Files Generated:
+- trengo_export.json: Full data with embedded messages
+- trengo_export.csv: Flattened summary with transcripts
